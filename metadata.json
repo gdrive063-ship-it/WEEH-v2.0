@@ -1,0 +1,6 @@
+{
+  "name": "Wireless Electromagnetic Energy Harvester",
+  "description": "ESP8266 RF energy harvester firmware and offline dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
